@@ -10,7 +10,7 @@ module.exports = class DBconnection{
     return mysql.createConnection({
       host: 'mysql-lab5-do-user-15575838-0.c.db.ondigitalocean.com',
       user: 'user',
-      password: '',
+      password: 'AVNS_cvth8pRiyrfY7-vGpS0',
       database: 'lab5',
       port: 25060
     });
